@@ -13,7 +13,7 @@ This repository provides a fully reproducible analytical pipeline that investiga
 |---|---|---|---|
 | Lung cancer AAIR (per 100 000 person-years, 2000 US Std Pop) | [California Health Maps](https://californiahealthmaps.com) / California Cancer Registry | 2015–2019 | MSSA |
 | Pollution & socioeconomic indicators | [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen) (OEHHA) | ~2017–2019 (pollution); 2015–2019 ACS (socioeconomic) | Census tract → MSSA (population-weighted) |
-| Adult smoking prevalence | CDC PLACES Project via [UCSF Health Atlas](https://healthatlas.ucsf.edu) | 2020 | Census tract → MSSA |
+| Adult smoking prevalence | CDC PLACES Project via [UCSF Health Atlas](https://healthatlas.ucsf.edu) | 2020 | Census tract → MSSA (population-weighted) |
 
 The unit of analysis is the **Medical Service Study Area (MSSA)** (*N* = 542). Census-tract-level indicators are aggregated to MSSAs using population-weighted means (continuous) or population-weighted sums (count-based).
 
