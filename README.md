@@ -1,4 +1,5 @@
-# California Lung Cancer Incidence & Environmental Determinants
+# Machine Learning Identifies Community-Level Factors Associated with Lung Cancer Incidence
+
 
 An area-level ecological analysis linking environmental pollution, socioeconomic, and behavioral indicators to age-adjusted lung cancer incidence rates (AAIR) across California's 542 Medical Service Study Areas (MSSAs).
 
