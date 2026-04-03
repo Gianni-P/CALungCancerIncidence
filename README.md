@@ -85,7 +85,7 @@ Random seed: **42**
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/CALungCancerIncidence.git
+   git clone https://github.com/Gianni-P/CALungCancerIncidence.git
    cd CALungCancerIncidence
    ```
 
